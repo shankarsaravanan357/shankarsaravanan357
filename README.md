@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @shankarsaravanan357
-- 👀 I’m interested in the field of Internet Of Things.
-- 🌱 I’m currently learning Flask.
-- 📫 How to reach me - shankarsaravanan007@gmail.com
+I'm interested in problem solving and working on new ideas. Done two main projects - Blood vessel thickness calculation and self quantified tracker web application. Work experience - IoT developer Intern at Jaysam electronics (6 months).
+
 
 <!---
 shankarsaravanan357/shankarsaravanan357 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
